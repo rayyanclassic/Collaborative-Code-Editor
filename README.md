@@ -140,4 +140,4 @@ aws ecs update-service --cluster <cluster-name> --service <service-name> --force
 ## 👨‍💻 Author
 
 **Md Rayyan Usmani**  
-[GitHub](https://github.com/your-github) • [LinkedIn](https://linkedin.com/in/your-linkedin)
+[GitHub](https://github.com/rayyanclassic) • [LinkedIn](https://linkedin.com/in/mohammadrayyanusmani)
