@@ -1,0 +1,12 @@
+FROM node:20-alpine as frontend-builder
+
+COPY ./Frontend /app
+
+WORKDIR /app
+
+CMD ["node", "server.js"]
+
+RUN nom install
+
+RUN npm run build
+
